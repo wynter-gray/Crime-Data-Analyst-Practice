@@ -7,7 +7,8 @@ Beginner SQL scripts and dataset for crime analyst practice (Excel + SQL Server 
 |------|--------------|
 | **crime_training_dataset.xlsx** | Excel dataset with 3 tables: incidents, calls_for_service, and locations. |
 | **crime_analyst_codes.sql** | SQL practice queries and sample solutions. |
-| **second_crime_analyst,sql** | Second SQL practice queries and sample solutions. |
+| **second_crime_analyst.sql** | Second SQL practice queries and sample solutions. |
+| **crime data analyst.pdf** | Report includes overview, tableau dashboard, SQL queries, and result previews. |
 
 ---
 
